@@ -1,1 +1,1 @@
-# Java-Project-1---Virtual-Supermarket
+# Java-Project-1---Supermarket Operation
