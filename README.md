@@ -14,7 +14,7 @@ This program should be able to read information of products line by line from an
 
 There was an input file (input.txt) in the project which contains the Product ID, Price, Discount(%), Store ID and Product Category as headers. Each line in the input file are product details. It was used for testing.
 
-### There were three classes I needed to edit: Product, Store, and Order.
+### There were three classes I needed to edit: Product, Store, and Order. The TO DO's were what I had to edit.
 
 > Product - This class gets product details from the input file and prepares the product information using accessor methods. There are no mutator methods in this class.
 
