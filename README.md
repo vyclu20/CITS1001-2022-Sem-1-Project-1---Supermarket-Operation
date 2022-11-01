@@ -12,7 +12,7 @@ There are several objects involved in the operation of a supermarket, including 
 
 This program should be able to read information of products line by line from an input file, take and process orders and generate an invoice displaying order details of a customer after processing the order.
 
-There was an input file (input.txt) in the project which contains the Product ID, Price, Discount(%), Store ID and Product Category as headers. Each line in the input file are product details. It was used for testing.
+There was an input file (input.txt) in the project which contained the Product ID, Price, Discount(%), Store ID and Product Category as headers of an item. Each line in the input file were the product details. It was not included in the repository for it was only used to test my code and that it was not me who wrote it up.
 
 ### There were three classes I needed to edit: Product, Store, and Order. The TO DO's were what I had to edit.
 
