@@ -128,7 +128,9 @@ public class Order
        System.out.println(invoice_reference = "*******Order Details*******");
        System.out.println("Invoice Number: "+ generateInvoice());
        System.out.println("Total items :"+ getTotalItem());
-       System.out.println("Amount Payable:" + getTotalDiscount());
+       System.out.println("Amount Payable:" + getTotalPrice());
+       System.out.println("Discount Applied:" + getTotalDiscount());
+        
     }
     
 }
